@@ -1,0 +1,26 @@
+.container 
+{
+  background-size: cover;
+  height: 100%;
+}
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGh9DHiJ0VTa958D-Oqr61tv7iGUgzi1HkQ&usqp=CAU");
+  font-family: Georgia, serif;
+}
+.bg-light 
+{
+  box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+  border-radius: 8px;
+}
+
+li 
+{
+  margin-bottom: 5px;
+}
+
+.fixed-bottom 
+{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}

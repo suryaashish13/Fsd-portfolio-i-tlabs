@@ -1,0 +1,43 @@
+body {
+    font-family: Georgia, serif;
+    font-size: 18px;
+  }
+  .container {
+    margin-top: 50px;
+  }
+  
+  img {
+    margin-bottom: 10px;
+    border-radius: 10%;
+    width: 150px
+  }
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
+  a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+  
+  .connect {
+    margin-top: 30px;
+  }
+  
+  .connect h3 {
+    margin-bottom: 20px;
+  }
+  
+  header {
+    margin-bottom: 40px;
+  }
+  
+  body
+   {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGh9DHiJ0VTa958D-Oqr61tv7iGUgzi1HkQ&usqp=CAU');
+    background-size: cover;
+  } 
